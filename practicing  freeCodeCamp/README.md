@@ -3,6 +3,7 @@
 # My Project
 
 Welcome to my project! Here's how to navigate the files:
+[see this order to navitage between the files]
 
 Name
 
